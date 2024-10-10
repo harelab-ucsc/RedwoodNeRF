@@ -17,7 +17,7 @@ We provide two datasets totaling in 540 m<sup>2</sup> of coastal California mixe
 Our software tools are built on top of [TreeTool](https://github.com/porteratzo/TreeTool), a Python library for estimating tree diameters from dense forest reconstructions. We provide a full add-on library which expands TreeTool's viability for irregular tree shapes and complex tree growth patterns. We also introduce an improved tree modeling approach which uses stacks of convex-hull slices to accuratley represent irregular tree morphologies.
 
 <p align='center'>
-    <img src="images/hull_modeling" alt="drawing" width="400"/>
+    <img src="images/hull_modeling.png" alt="drawing" width="400"/>
 </p>
 
 ## Paper
