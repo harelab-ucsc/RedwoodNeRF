@@ -24,12 +24,14 @@ Our software tools are built on top of [TreeTool](https://github.com/porteratzo/
 
 This effort is based on our paper which is currently under review. Please cite our preprint if you use the provided code or datasets.
 ```
-@article{RedwoodNeRF2024,
-  title     = {NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest},
-  author    = {Adam Korycki, Cory Yeaton, Gregory S. Gilbert, Colleen Josephson, Steve McGuire},
-  journal   = {arXiv preprint arXiv:XXXX.XXXXX},
-  year      = {2024},
-  url       = {https://arxiv.org/abs/XXXX.XXXXX},
+@article{koryckiRedwoodNeRF,
+      title={NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest}, 
+      author={Adam Korycki and Cory Yeaton and Gregory S. Gilbert and Colleen Josephson and Steve McGuire},
+      year={2024},
+      eprint={2410.07418},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.07418}, 
 }
 ```
 
